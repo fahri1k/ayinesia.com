@@ -39,7 +39,7 @@
 
 ## Bugs and Tester
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6282249380038)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -68,12 +68,12 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.owner = ['6281575886399','6281575886399','6281575886399']
+global.owner = ['6282249380038','6283894390184','6282262337001']
 global.premium = ['6281575886399']
 global.ownernomer = '6281575886399'
-global.ownername = 'RIY'
-global.botname = 'Chika-Md'
-global.footer = 'RIY'
+global.ownername = 'AYBOT'
+global.botname = 'Ay-Md'
+global.footer = 'ay'
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/riychdwayne'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
